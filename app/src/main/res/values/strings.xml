@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leitor de Cartão de Resposta</string>
+    <string name="action_settings">Settings</string>
+    <string name="moderar">Moderar</string>
+    <string name="tecnologia_informacao">Tecnologia e Informação</string>
+    <string name="leitor_cartao_resposta">Leitor de Cartão de Respsota</string>
+    <string name="foto">Foto</string>
+    <string name="capturar">CAPTURAR</string>
+</resources>
